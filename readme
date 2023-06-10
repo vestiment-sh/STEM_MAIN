@@ -6,3 +6,6 @@ for i = 1 to 100
    next
    return i
 end for
+
+a = print("Hello World")
+a
