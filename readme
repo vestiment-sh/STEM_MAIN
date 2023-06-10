@@ -9,3 +9,9 @@ end for
 
 a = print("Hello World")
 a
+
+1) Folder push from each student
+
+2) multiple students using python branch and updating their uindividual codes independently
+   one should nt obe able to see the other
+
